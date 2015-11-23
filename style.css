@@ -1,0 +1,19 @@
+.t-shirt {
+	background: url('camiseta.png') no-repeat;
+	background-size: 100%;
+	position: relative;
+	width: 110%;
+	height: 100%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.twitter-tweet {
+	margin-left: auto;
+    margin-right: auto;	
+}
+
+.tuite {
+	position: relative;
+	top: 15%;
+}
