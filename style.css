@@ -11,10 +11,17 @@
 .twitter-tweet {
 	margin-left: auto;
     margin-right: auto;
+	min-width: 160px;
+	max-width: 171px;
 }
 
 .embeddedtweet-tweet {
 	width: 70%;
+}
+
+iframe#twitter-widget-0 {
+	min-width: 160px;
+	max-width: 171px;
 }
 
 .tuite {
